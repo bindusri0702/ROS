@@ -15,4 +15,5 @@ ANGULAR GRIPPER (BOTH CLOSED AND OPEN) - 2 JAWS
 ![arm7_rev2](https://user-images.githubusercontent.com/60285438/119926937-054f1300-bf96-11eb-843f-5b870ccea4db.gif)
 <br/>
 ANGULAR GRIPPER (BOTH CLOSED AND OPEN) - 4 JAWS
+![arm7_rev4](https://user-images.githubusercontent.com/60285438/119926968-1b5cd380-bf96-11eb-88a3-73c5c6bfc7be.gif)
 
